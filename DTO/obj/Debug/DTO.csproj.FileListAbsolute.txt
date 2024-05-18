@@ -1,0 +1,6 @@
+C:\Users\hp\source\repos\QuanLyBienLai\DTO\bin\Debug\DTO.dll
+C:\Users\hp\source\repos\QuanLyBienLai\DTO\bin\Debug\DTO.pdb
+C:\Users\hp\source\repos\QuanLyBienLai\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\QuanLyBienLai\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\QuanLyBienLai\DTO\obj\Debug\DTO.dll
+C:\Users\hp\source\repos\QuanLyBienLai\DTO\obj\Debug\DTO.pdb
