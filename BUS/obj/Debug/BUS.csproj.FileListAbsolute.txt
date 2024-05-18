@@ -1,0 +1,44 @@
+C:\Users\hp\source\repos\QuanLyBienLai\BUS\bin\Debug\BUS.dll
+C:\Users\hp\source\repos\QuanLyBienLai\BUS\bin\Debug\BUS.pdb
+C:\Users\hp\source\repos\QuanLyBienLai\BUS\bin\Debug\DAL.dll
+C:\Users\hp\source\repos\QuanLyBienLai\BUS\bin\Debug\DTO.dll
+C:\Users\hp\source\repos\QuanLyBienLai\BUS\bin\Debug\DAL.pdb
+C:\Users\hp\source\repos\QuanLyBienLai\BUS\bin\Debug\DTO.pdb
+C:\Users\hp\source\repos\QuanLyBienLai\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\QuanLyBienLai\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\QuanLyBienLai\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\hp\source\repos\QuanLyBienLai\BUS\obj\Debug\BUS.dll
+C:\Users\hp\source\repos\QuanLyBienLai\BUS\obj\Debug\BUS.pdb
+E:\C# project\QuanLyBienLai\BUS\bin\Debug\BUS.dll
+E:\C# project\QuanLyBienLai\BUS\bin\Debug\BUS.pdb
+E:\C# project\QuanLyBienLai\BUS\bin\Debug\DAL.dll
+E:\C# project\QuanLyBienLai\BUS\bin\Debug\DTO.dll
+E:\C# project\QuanLyBienLai\BUS\bin\Debug\DAL.pdb
+E:\C# project\QuanLyBienLai\BUS\bin\Debug\DTO.pdb
+E:\C# project\QuanLyBienLai\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\C# project\QuanLyBienLai\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\C# project\QuanLyBienLai\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\C# project\QuanLyBienLai\BUS\obj\Debug\BUS.dll
+E:\C# project\QuanLyBienLai\BUS\obj\Debug\BUS.pdb
+C:\nam4\C#\QuanLyBienLai\QuanLyBienLai\BUS\bin\Debug\BUS.dll
+C:\nam4\C#\QuanLyBienLai\QuanLyBienLai\BUS\bin\Debug\BUS.pdb
+C:\nam4\C#\QuanLyBienLai\QuanLyBienLai\BUS\bin\Debug\DAL.dll
+C:\nam4\C#\QuanLyBienLai\QuanLyBienLai\BUS\bin\Debug\DTO.dll
+C:\nam4\C#\QuanLyBienLai\QuanLyBienLai\BUS\bin\Debug\DAL.pdb
+C:\nam4\C#\QuanLyBienLai\QuanLyBienLai\BUS\bin\Debug\DTO.pdb
+C:\nam4\C#\QuanLyBienLai\QuanLyBienLai\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\nam4\C#\QuanLyBienLai\QuanLyBienLai\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\nam4\C#\QuanLyBienLai\QuanLyBienLai\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\nam4\C#\QuanLyBienLai\QuanLyBienLai\BUS\obj\Debug\BUS.dll
+C:\nam4\C#\QuanLyBienLai\QuanLyBienLai\BUS\obj\Debug\BUS.pdb
+C:\Users\hp\Documents\Zalo Received Files\QuanLyBienLai\QuanLyBienLai\BUS\bin\Debug\BUS.dll
+C:\Users\hp\Documents\Zalo Received Files\QuanLyBienLai\QuanLyBienLai\BUS\bin\Debug\BUS.pdb
+C:\Users\hp\Documents\Zalo Received Files\QuanLyBienLai\QuanLyBienLai\BUS\bin\Debug\DAL.dll
+C:\Users\hp\Documents\Zalo Received Files\QuanLyBienLai\QuanLyBienLai\BUS\bin\Debug\DTO.dll
+C:\Users\hp\Documents\Zalo Received Files\QuanLyBienLai\QuanLyBienLai\BUS\bin\Debug\DAL.pdb
+C:\Users\hp\Documents\Zalo Received Files\QuanLyBienLai\QuanLyBienLai\BUS\bin\Debug\DTO.pdb
+C:\Users\hp\Documents\Zalo Received Files\QuanLyBienLai\QuanLyBienLai\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\Zalo Received Files\QuanLyBienLai\QuanLyBienLai\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Zalo Received Files\QuanLyBienLai\QuanLyBienLai\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\hp\Documents\Zalo Received Files\QuanLyBienLai\QuanLyBienLai\BUS\obj\Debug\BUS.dll
+C:\Users\hp\Documents\Zalo Received Files\QuanLyBienLai\QuanLyBienLai\BUS\obj\Debug\BUS.pdb
