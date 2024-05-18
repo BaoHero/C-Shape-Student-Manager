@@ -1,0 +1,36 @@
+C:\Users\hp\source\repos\QuanLyBienLai\DAL\bin\Debug\DAL.dll
+C:\Users\hp\source\repos\QuanLyBienLai\DAL\bin\Debug\DAL.pdb
+C:\Users\hp\source\repos\QuanLyBienLai\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\QuanLyBienLai\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\QuanLyBienLai\DAL\obj\Debug\DAL.dll
+C:\Users\hp\source\repos\QuanLyBienLai\DAL\obj\Debug\DAL.pdb
+C:\Users\hp\source\repos\QuanLyBienLai\DAL\bin\Debug\DTO.dll
+C:\Users\hp\source\repos\QuanLyBienLai\DAL\bin\Debug\DTO.pdb
+C:\Users\hp\source\repos\QuanLyBienLai\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\C# project\QuanLyBienLai\DAL\bin\Debug\DAL.dll
+E:\C# project\QuanLyBienLai\DAL\bin\Debug\DAL.pdb
+E:\C# project\QuanLyBienLai\DAL\bin\Debug\DTO.dll
+E:\C# project\QuanLyBienLai\DAL\bin\Debug\DTO.pdb
+E:\C# project\QuanLyBienLai\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\C# project\QuanLyBienLai\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\C# project\QuanLyBienLai\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\C# project\QuanLyBienLai\DAL\obj\Debug\DAL.dll
+E:\C# project\QuanLyBienLai\DAL\obj\Debug\DAL.pdb
+C:\nam4\C#\QuanLyBienLai\QuanLyBienLai\DAL\bin\Debug\DAL.dll
+C:\nam4\C#\QuanLyBienLai\QuanLyBienLai\DAL\bin\Debug\DAL.pdb
+C:\nam4\C#\QuanLyBienLai\QuanLyBienLai\DAL\bin\Debug\DTO.dll
+C:\nam4\C#\QuanLyBienLai\QuanLyBienLai\DAL\bin\Debug\DTO.pdb
+C:\nam4\C#\QuanLyBienLai\QuanLyBienLai\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\nam4\C#\QuanLyBienLai\QuanLyBienLai\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\nam4\C#\QuanLyBienLai\QuanLyBienLai\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\nam4\C#\QuanLyBienLai\QuanLyBienLai\DAL\obj\Debug\DAL.dll
+C:\nam4\C#\QuanLyBienLai\QuanLyBienLai\DAL\obj\Debug\DAL.pdb
+C:\Users\hp\Documents\Zalo Received Files\QuanLyBienLai\QuanLyBienLai\DAL\bin\Debug\DAL.dll
+C:\Users\hp\Documents\Zalo Received Files\QuanLyBienLai\QuanLyBienLai\DAL\bin\Debug\DAL.pdb
+C:\Users\hp\Documents\Zalo Received Files\QuanLyBienLai\QuanLyBienLai\DAL\bin\Debug\DTO.dll
+C:\Users\hp\Documents\Zalo Received Files\QuanLyBienLai\QuanLyBienLai\DAL\bin\Debug\DTO.pdb
+C:\Users\hp\Documents\Zalo Received Files\QuanLyBienLai\QuanLyBienLai\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\Zalo Received Files\QuanLyBienLai\QuanLyBienLai\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Zalo Received Files\QuanLyBienLai\QuanLyBienLai\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\hp\Documents\Zalo Received Files\QuanLyBienLai\QuanLyBienLai\DAL\obj\Debug\DAL.dll
+C:\Users\hp\Documents\Zalo Received Files\QuanLyBienLai\QuanLyBienLai\DAL\obj\Debug\DAL.pdb
